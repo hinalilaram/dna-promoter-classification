@@ -16,21 +16,23 @@ The work is inspired by the survey _“Scientific Large Language Models: A Surve
 
 ## Repository Structure
 
-
+</pre>
+dna-promoter-classification/
 ├── main.py # Main pipeline: data loading, training, evaluation
 ├── model.py # Transformer model loading, embedding extraction, ML classifier definitions
 ├── utils.py # Data utilities, metrics, result tables, splitting
 ├── requirements.txt # Project dependencies
-├── README.md # This documentation file
+├── README.md # Project documentation
 └── (other files: notebooks, reports, etc.)
-
+</pre>
 ## Installation
 
 Clone the repository:
-
+</pre>
 git clone https://github.com/hinalilaram/dna-promoter-classification.git
-cd dna-promoter-classification
 
+cd dna-promoter-classification
+</pre>
 Install dependencies (preferably in a virtual environment):
 
 
