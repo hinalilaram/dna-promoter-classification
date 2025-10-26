@@ -24,7 +24,7 @@ dna-promoter-classification/
 ├── requirements.txt # Project dependencies
 ├── README.md # Project documentation
 └── (other files: notebooks, reports, etc.)
-```bash
+```
 ## Installation
 
 Clone the repository:
