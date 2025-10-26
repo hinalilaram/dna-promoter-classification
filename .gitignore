@@ -4,3 +4,14 @@
 *.ptx
 *.cubin
 *.fatbin
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+data/
+results/
+*.ipynb_checkpoints
+logs/
+.vscode/
+.DS_Store
